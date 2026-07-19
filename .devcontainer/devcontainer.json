@@ -1,4 +1,4 @@
 {
-    "name": "Basic/First dev Environment",
-    "image": "mcr.microsoft.com/devcontainer/base:debian"
+  "name": "Basic Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
